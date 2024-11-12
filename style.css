@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: #311313;
+    width: 591px;
+    height:70px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: 45px;
+    margin-bottom: 55px;
+    margin-top: 22px;
+    
+    
+}
+.div{
+    background-color: #2A5D5A;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 800px;
+    padding-top: 1px;
+}
+.text{
+    background-color: #1FE8B7;
+    padding: 30px;
+    width: 570px;
+    height: 200px;  
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.qwert{
+    background-color: #000000;
+    border: red solid 10px;
+    width: 700px;
+    height: 550px;
+    margin: 0 auto;
+}
